@@ -1,2 +1,2 @@
-# o(n²⁰)
-calculate and integer to the power of 20
+# O(n²⁰) time complexity program
+calculate and integer to the power of 20 in its purest O(n²⁰) form
